@@ -1,0 +1,16 @@
+{
+    "train": [
+        {
+            "manifest_path": [
+                "data/finetune/tokens/Rasa_emotions/train/data.lst"
+            ]
+        }
+    ],
+    "dev": [
+        {
+            "manifest_path": [
+                "data/finetune/tokens/Rasa_emotions/dev/data.lst"
+            ]
+        }
+    ]
+}
